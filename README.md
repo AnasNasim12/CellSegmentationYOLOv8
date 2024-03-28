@@ -1,6 +1,6 @@
 # Text summarization using HuggingFace's inference API
 
-This Flask-based web application allows users to input a large body of text and receive a summarized version of it. It utilizes the Hugging Face Inference API to generate the summary.
+This simple Flask-based web application allows users to input a large body of text and receive a summarized version of it. It utilizes the Hugging Face Inference API to generate the summary.
 
 ## Features
 
